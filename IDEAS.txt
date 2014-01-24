@@ -1,0 +1,9 @@
+Ideas ! :
+
+-Health bar 
+-Depleting health bar
+-Score tracker
+-Changing letter colour
+*Green for right
+*Red for wrong
+-Checkmark or cross 
